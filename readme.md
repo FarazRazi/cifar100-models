@@ -28,14 +28,6 @@ pip install --upgrade pip
 pip install -r requirements.txt
 ```
 
-## Data (DVC)
-
-- Pull the data
-
-```bash
-dvc pull
-```
-
 ## Train
 
 ...
